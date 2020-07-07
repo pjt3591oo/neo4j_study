@@ -1,0 +1,324 @@
+{
+  "start": {
+    "identity": 0,
+    "labels": [
+      "Worker"
+    ],
+    "properties": {
+      "name": "직원1",
+      "age": 20
+    }
+  },
+  "end": {
+    "identity": 20,
+    "labels": [
+      "Worker"
+    ],
+    "properties": {
+      "name": "직원2",
+      "age": 30
+    }
+  },
+  "segments": [
+    {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "Worker"
+        ],
+        "properties": {
+          "name": "직원1",
+          "age": 20
+        }
+      },
+      "relationship": {
+        "identity": 22,
+        "start": 20,
+        "end": 0,
+        "type": "colleague",
+        "properties": {}
+      },
+      "end": {
+        "identity": 20,
+        "labels": [
+          "Worker"
+        ],
+        "properties": {
+          "name": "직원2",
+          "age": 30
+        }
+      }
+    }
+  ],
+  "length": 1.0
+}
+{
+  "start": {
+    "identity": 0,
+    "labels": [
+      "Worker"
+    ],
+    "properties": {
+      "name": "직원1",
+      "age": 20
+    }
+  },
+  "end": {
+    "identity": 20,
+    "labels": [
+      "Worker"
+    ],
+    "properties": {
+      "name": "직원2",
+      "age": 30
+    }
+  },
+  "segments": [
+    {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "Worker"
+        ],
+        "properties": {
+          "name": "직원1",
+          "age": 20
+        }
+      },
+      "relationship": {
+        "identity": 21,
+        "start": 20,
+        "end": 0,
+        "type": "colleague",
+        "properties": {}
+      },
+      "end": {
+        "identity": 20,
+        "labels": [
+          "Worker"
+        ],
+        "properties": {
+          "name": "직원2",
+          "age": 30
+        }
+      }
+    }
+  ],
+  "length": 1.0
+}
+{
+  "start": {
+    "identity": 0,
+    "labels": [
+      "Worker"
+    ],
+    "properties": {
+      "name": "직원1",
+      "age": 20
+    }
+  },
+  "end": {
+    "identity": 20,
+    "labels": [
+      "Worker"
+    ],
+    "properties": {
+      "name": "직원2",
+      "age": 30
+    }
+  },
+  "segments": [
+    {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "Worker"
+        ],
+        "properties": {
+          "name": "직원1",
+          "age": 20
+        }
+      },
+      "relationship": {
+        "identity": 75,
+        "start": 20,
+        "end": 0,
+        "type": "colleague",
+        "properties": {}
+      },
+      "end": {
+        "identity": 20,
+        "labels": [
+          "Worker"
+        ],
+        "properties": {
+          "name": "직원2",
+          "age": 30
+        }
+      }
+    }
+  ],
+  "length": 1.0
+}
+{
+  "start": {
+    "identity": 0,
+    "labels": [
+      "Worker"
+    ],
+    "properties": {
+      "name": "직원1",
+      "age": 20
+    }
+  },
+  "end": {
+    "identity": 22,
+    "labels": [
+      "Worker"
+    ],
+    "properties": {
+      "name": "직원4",
+      "age": 50
+    }
+  },
+  "segments": [
+    {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "Worker"
+        ],
+        "properties": {
+          "name": "직원1",
+          "age": 20
+        }
+      },
+      "relationship": {
+        "identity": 5,
+        "start": 22,
+        "end": 0,
+        "type": "other",
+        "properties": {}
+      },
+      "end": {
+        "identity": 22,
+        "labels": [
+          "Worker"
+        ],
+        "properties": {
+          "name": "직원4",
+          "age": 50
+        }
+      }
+    }
+  ],
+  "length": 1.0
+}
+{
+  "start": {
+    "identity": 0,
+    "labels": [
+      "Worker"
+    ],
+    "properties": {
+      "name": "직원1",
+      "age": 20
+    }
+  },
+  "end": {
+    "identity": 20,
+    "labels": [
+      "Worker"
+    ],
+    "properties": {
+      "name": "직원2",
+      "age": 30
+    }
+  },
+  "segments": [
+    {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "Worker"
+        ],
+        "properties": {
+          "name": "직원1",
+          "age": 20
+        }
+      },
+      "relationship": {
+        "identity": 4,
+        "start": 20,
+        "end": 0,
+        "type": "colleague",
+        "properties": {}
+      },
+      "end": {
+        "identity": 20,
+        "labels": [
+          "Worker"
+        ],
+        "properties": {
+          "name": "직원2",
+          "age": 30
+        }
+      }
+    }
+  ],
+  "length": 1.0
+}
+{
+  "start": {
+    "identity": 0,
+    "labels": [
+      "Worker"
+    ],
+    "properties": {
+      "name": "직원1",
+      "age": 20
+    }
+  },
+  "end": {
+    "identity": 0,
+    "labels": [
+      "Worker"
+    ],
+    "properties": {
+      "name": "직원1",
+      "age": 20
+    }
+  },
+  "segments": [
+    {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "Worker"
+        ],
+        "properties": {
+          "name": "직원1",
+          "age": 20
+        }
+      },
+      "relationship": {
+        "identity": 20,
+        "start": 0,
+        "end": 0,
+        "type": "colleague",
+        "properties": {}
+      },
+      "end": {
+        "identity": 0,
+        "labels": [
+          "Worker"
+        ],
+        "properties": {
+          "name": "직원1",
+          "age": 20
+        }
+      }
+    }
+  ],
+  "length": 1.0
+}
